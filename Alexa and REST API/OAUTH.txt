@@ -1,0 +1,18 @@
+Client ID 	67b9179a-bd33-4803-aa13-f919b368d028
+Client Secret	dd7da7c2-215e-49da-9fb1-b0b96c8ed6fb
+
+Code u809NG
+
+Access token {"access_token":"e11809fb-153e-4181-9e56-ac6e5a7b1a04","token_type":"bearer","expires_in":1576799782,"scope":"app"}
+
+[{"oauthClient":{"clientId":"67b9179a-bd33-4803-aa13-f919b368d028"},"location":{"id":"373b65a7-76e1-4d32-ae0b-d38743f215c9","name":"Home"},"uri":"https://graph-na02-useast1.api.smartthings.com:443/api/smartapps/installations/9980d64d-1908-4a7f-8fe1-a8bb5c244505","base_url":"https://graph-na02-useast1.api.smartthings.com:443","url":"/api/smartapps/installations/9980d64d-1908-4a7f-8fe1-a8bb5c244505"},{"oauthClient":{"clientId":"67b9179a-bd33-4803-aa13-f919b368d028"},"location":{"id":"373b65a7-76e1-4d32-ae0b-d38743f215c9","name":"Home"},"uri":"https://graph-na02-useast1.api.smartthings.com:443/api/smartapps/installations/aa6a90bf-d863-42f2-80ff-b8cfb4831eaf","base_url":"https://graph-na02-useast1.api.smartthings.com:443","url":"/api/smartapps/installations/aa6a90bf-d863-42f2-80ff-b8cfb4831eaf"}]
+
+PUT /api/smartapps/installations/8a2aa0cd3df1a718013df1ca2e3f000c/switches/8a818a9b39c0de7f0139c0dff1290073
+
+
+
+Code	RZvDWu
+
+Access Token	e11809fb-153e-4181-9e56-ac6e5a7b1a04
+
+https://graph.api.smartthings.com/oauth/authorize?response_type=code&client_id=67b9179a-bd33-4803-aa13-f919b368d028&scope=app&redirect_uri=https%3A%2F%2Fgraph.api.smartthings.com%2Foauth%2Fcallback
